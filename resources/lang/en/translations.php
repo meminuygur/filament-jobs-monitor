@@ -3,7 +3,7 @@
 return [
     'title' => 'Queued Jobs',
     'navigation_label' => 'Jobs',
-    'navigation_group' => 'System',
+    'navigation_group' => 'Settings',
     'total_jobs' => 'Total Jobs Executed',
     'execution_time' => 'Total Execution Time',
     'average_time' => 'Average Execution Time',
